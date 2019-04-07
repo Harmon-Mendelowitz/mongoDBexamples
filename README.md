@@ -1,2 +1,1 @@
-# template-mongodb
-MongoDB
+# MongoDB
