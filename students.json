@@ -1,0 +1,67 @@
+[{
+ name: "Nick Jonas",
+ phone: "111-111-1111",
+ address: {
+	  house_number: "2",
+	  street: "Blackberry Lane",
+	  city: "Charlote",
+	  state: "North Carolina"},
+ major: "Computer Science",
+ advisor: "Tim Wood",
+ year: "Freshman"},
+
+ {
+ name: "Hanna Montana",
+ phone: [{
+	 phone_number: "222-222-2222",
+	 type: "home"},
+	 {
+	 phone_number: "333-333-3333",
+	 type: "mobile"}],
+ major: "Computer Science",
+ minor: "Math",
+ advisor: "Tim Wood"},
+
+ {
+ name: "Joe Jonas",
+ phone: "444-444-4444",
+ address: {
+          house_number: "2",
+          street: "Blackberry Lane",
+          city: "Charlote",
+          state: "North Carolina"},
+ major: "Computer Science",
+ minor: "Biology",
+ advisor: "Robert Pless"},
+
+ {
+ name: "Aubrey Drake Graham",
+ nickname: "Drake",
+ phone: "555-555-5555",
+ address: {
+ 	  city: "Toronto",
+	  province: "Ontario",
+	  country: "Canada"},
+ major: "Arts"},
+
+ {
+ name: "Chris Brown",
+ phone: "678-999-8212",
+ address: {
+ 	  house_number: "3",
+	  street: "Rap Lane",
+	  city: "Richmond",
+	  state: "Virginia"},
+ major: "Computer Science",
+ advisor: "Gabe Parmer"},
+
+ {
+ name: "Hasan Minaj",
+ phone: "777-777-7777",
+ address: {
+ 	  house_number: "45",
+	  street_number: "Comedy Road",
+	  city: "New York City",
+	  state: "New York"},
+ major: "Public Speaking"}
+]

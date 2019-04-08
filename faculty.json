@@ -1,0 +1,31 @@
+[{
+ name: "Tim Wood",
+ department: "Computer Science"},
+
+ {
+ name: "Robert Pless",
+ department: "Computer Science",
+ research_area: "Computer Vision",
+ courses: ["Intro to Computer Vision", "Algorithms"]},
+
+ {
+ name: "Bhagi Narahari",
+ department: "Computer Science",
+ courses: "Database Systems",
+ other_roles: "Associate Dean"},
+
+ {
+ name: "Gabe Parmer",
+ department: "Computer Science",
+ courses: "Operating Systems"},
+
+ {
+ name: "Poorvi Vora",
+ department: "Computer Science",
+ research_area: "Security and Privacy",
+ courses: ["Discrete Structures II", "Cryptography"]},
+
+ {
+ name: "David Dolling",
+ department: "Mechanical Engineering",
+ previous_roles: "Dean of SEAS"}]
