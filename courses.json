@@ -1,0 +1,29 @@
+[
+ {course_name: "Database System",
+ taught_by: ["Bhagi Narahari", "Roxana Leontie"],
+ course_number: "CSCI2541",
+ capacity: "55",
+ prerequisites: "Discrete Structures I",
+ corequisites: "Software Engineering"},
+ 
+ {course_name: "Discrete Structures I",
+ taught_by: "Poorvi Vora",
+ course_number: "CSCI1311",
+ capacity: "60"},
+ 
+ {course_name: "Algorithms",
+ taught_by: "",
+ course_number: "CSCI3212",
+ capacity: "60",
+ prerequisites: ["Discrete Structures I","Software Engineering"]},
+     
+ {course_name: "Design and Analysis of Algorithms",
+ taught_by: "Abdou Youssef",
+ course_number: "CSCI6212",
+ capacity: "80",
+ level: "graduate"},
+ 
+ {course_name: "Cryptography",
+ taught_by: "Poorvi Vora",
+ course_number: "CSCI6331"}
+]
